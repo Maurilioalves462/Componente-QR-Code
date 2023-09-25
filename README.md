@@ -22,8 +22,8 @@ Esta é uma captura de tela do meu projeto que tentei criar o mais próximo poss
 
 ### Links
 
-- Url da solução: [Solução]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/componente-qr-code-soluo-7eHz_-wWw8))
-- Url do site: [Site]([https://your-live-site-url.com](https://maurilioalves462.github.io/Componente-QR-Code/))
+- [Solução](https://www.frontendmentor.io/solutions/componente-qr-code-soluo-7eHz_-wWw8)
+- [Site](https://maurilioalves462.github.io/Componente-QR-Code/)
 
 ## Meu Processo
 
